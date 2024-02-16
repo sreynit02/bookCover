@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="Back_Cover" size="1.000000 1.463551" />
     <ImageTarget name="front" size="1.000000 1.544379" />
     <ImageTarget name="Back" size="1.000000 1.545000" />
     <ImageTarget name="PinkCover" size="1.000000 1.789976" />
