@@ -16,3 +16,6 @@ The limitation of this code is that the virtual button did not work due to the d
 4. Hold the picture of the front page of the book infront your web camera. The 3D models of the animals, title and the author's name should show up.
 5. Hold the picture of the back page of the book in front of your camera. The general information (author, date published, number of pages) should show up. To read the review, click on "Read Review" button. To display the general information again, click the "BackToInfo" button.
    
+## Video Demonstration 
+
+## Images 
