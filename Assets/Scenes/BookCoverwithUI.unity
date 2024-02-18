@@ -2659,7 +2659,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -646, y: -423}
+  m_AnchoredPosition: {x: -562.2, y: -423}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1305594679
@@ -3559,7 +3559,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -467, y: -423}
+  m_AnchoredPosition: {x: -381.7, y: -423}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1851117497
@@ -4701,6 +4701,11 @@ PrefabInstance:
       propertyPath: mPreview
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 1473663821098424122, guid: 0091756e5d7804d93990f9bd15439246,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.003
+      objectReference: {fileID: 0}
     - target: {fileID: 2366584812599157931, guid: 0091756e5d7804d93990f9bd15439246,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4780,6 +4785,36 @@ PrefabInstance:
         type: 3}
       propertyPath: mMeshRenderer
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6878257339012314376, guid: 0091756e5d7804d93990f9bd15439246,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 8.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6878257339012314376, guid: 0091756e5d7804d93990f9bd15439246,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 0.46240902
+      objectReference: {fileID: 0}
+    - target: {fileID: 6878257339012314376, guid: 0091756e5d7804d93990f9bd15439246,
+        type: 3}
+      propertyPath: m_margin.z
+      value: 0.29752922
+      objectReference: {fileID: 0}
+    - target: {fileID: 6878257339012314376, guid: 0091756e5d7804d93990f9bd15439246,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 8.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6878257339012314376, guid: 0091756e5d7804d93990f9bd15439246,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133031026921807766, guid: 0091756e5d7804d93990f9bd15439246,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.012
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5188615748652198572, guid: 0091756e5d7804d93990f9bd15439246, type: 3}
