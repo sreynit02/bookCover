@@ -22,6 +22,6 @@ Link: https://drive.google.com/drive/folders/1yN9y_yfrnNYqaz6k7NSu-AXnFOgR3qI0?u
 ## Images 
 Link: https://drive.google.com/drive/folders/1yN9y_yfrnNYqaz6k7NSu-AXnFOgR3qI0?usp=sharing
 
-Front Cover: Front.JPG
-Back Cover: Back.JPG
+1. Front Cover: Front.JPG
+2. Back Cover: Back.JPG
 
