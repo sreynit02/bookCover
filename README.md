@@ -17,8 +17,7 @@ The limitation of this code is that the virtual button did not work due to the d
 5. Hold the picture of the back page of the book in front of your camera. The general information (author, date published, number of pages) should show up. To read the review, click on "Read Review" button located on the bottom left corner of the screen. To display the general information again, click the "BackToInfo" button.
    
 ## Video Demonstration 
-Link: https://drive.google.com/drive/folders/1yN9y_yfrnNYqaz6k7NSu-AXnFOgR3qI0?usp=sharing
-
+Link: https://drive.google.com/drive/folders/1rpM2amJil4DCjryo03GrH5FNmAWWf46W?usp=sharing
 ## Images 
 Link: https://drive.google.com/drive/folders/1yN9y_yfrnNYqaz6k7NSu-AXnFOgR3qI0?usp=sharing
 
